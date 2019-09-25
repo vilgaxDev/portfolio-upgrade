@@ -53,7 +53,7 @@ import Newspaper from '../images/newspaper.png';
 import Award from '../images/award.png';
 
 
-import ProfilePic from '../images/me_irl.png';
+import ProfilePic from '../images/me_irl.PNG';
 import MetroLogo from '../images/MetroNewsLogo.png';
 import CANewsLogo from '../images/CANewsOttawaLogo.png';
 import OttawaTechLogo from '../images/OttawaTechWatchLogo.png';
@@ -291,7 +291,7 @@ class FinderDisplay extends Component {
 
                       <div className="finderTopBarIcon"></div>
                       <div className="finderTopBarText">
-                        {/* Your name displayed here, for example 'Edward Ren' */}
+                        {/* Your name displayed here, for example 'Kenb Vilgax' */}
                         <p id="finderTopBarTextP">{myInfo.groupNames[0]}</p>
                       </div>
                     </div>

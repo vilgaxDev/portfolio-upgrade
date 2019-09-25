@@ -1,0 +1,65 @@
+[debug] [2019-09-25T11:18:53.040Z] ----------------------------------------------------------------------
+[debug] [2019-09-25T11:18:53.042Z] Command:       E:\nodejs\node.exe C:\Users\Administrator\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2019-09-25T11:18:53.042Z] CLI Version:   7.3.2
+[debug] [2019-09-25T11:18:53.042Z] Platform:      win32
+[debug] [2019-09-25T11:18:53.043Z] Node Version:  v12.7.0
+[debug] [2019-09-25T11:18:53.043Z] Time:          Wed Sep 25 2019 14:18:53 GMT+0300 (East Africa Time)
+[debug] [2019-09-25T11:18:53.043Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-09-25T11:18:53.049Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-09-25T11:18:53.050Z] > authorizing via signed-in user
+[debug] [2019-09-25T11:18:53.050Z] [iam] checking project angular-website-2199e for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2019-09-25T11:18:53.051Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/angular-website-2199e:testIamPermissions  
+
+[debug] [2019-09-25T11:18:55.093Z] <<< HTTP RESPONSE 200
+[debug] [2019-09-25T11:18:55.096Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/angular-website-2199e  
+ 
+[debug] [2019-09-25T11:18:55.691Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'angular-website-2199e'...
+[info] 
+[info] i  deploying hosting
+[debug] [2019-09-25T11:18:55.697Z] >>> HTTP REQUEST POST https://firebasehosting.googleapis.com/v1beta1/sites/angular-website-2199e/versions  
+
+[debug] [2019-09-25T11:18:58.052Z] <<< HTTP RESPONSE 200
+[info] i  hosting[angular-website-2199e]: beginning deploy...
+[info] i  hosting[angular-website-2199e]: found 1 files in dist
+[debug] [2019-09-25T11:18:58.063Z] [hosting] hash cache [ZGlzdA] not populated
+[debug] [2019-09-25T11:18:58.074Z] [hosting] hash cache [ZGlzdA] stored for 1 files
+[debug] [2019-09-25T11:18:58.074Z] [hosting][hash queue][FINAL]
+[debug] [2019-09-25T11:18:58.075Z] >>> HTTP REQUEST POST https://firebasehosting.googleapis.com/v1beta1/sites/angular-website-2199e/versions/39c046c0105ad25b:populateFiles  
+ <request body omitted>
+[debug] [2019-09-25T11:19:00.111Z] <<< HTTP RESPONSE 200
+[debug] [2019-09-25T11:19:00.113Z] [hosting][populate queue][FINAL]
+[debug] [2019-09-25T11:19:00.113Z] [hosting] uploads queued: 1
+[debug] [2019-09-25T11:19:03.732Z] [hosting][upload queue][FINAL]
+[info] +  hosting[angular-website-2199e]: file upload complete
+[debug] [2019-09-25T11:19:03.733Z] [hosting] deploy completed after 5679ms
+[debug] [2019-09-25T11:19:04.193Z] [
+  {
+    "config": {
+      "public": "dist",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ],
+      "site": "angular-website-2199e"
+    },
+    "site": "angular-website-2199e",
+    "version": "sites/angular-website-2199e/versions/39c046c0105ad25b"
+  }
+]
+[info] i  hosting[angular-website-2199e]: finalizing version...
+[debug] [2019-09-25T11:19:04.194Z] >>> HTTP REQUEST PATCH https://firebasehosting.googleapis.com/v1beta1/sites/angular-website-2199e/versions/39c046c0105ad25b?updateMask=status  
+
+[debug] [2019-09-25T11:19:07.565Z] Error: read ECONNRESET
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:183:27)
+[error] 
+[error] Error: Server Error. read ECONNRESET

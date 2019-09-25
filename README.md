@@ -1,5 +1,5 @@
 <!--
-Copyright (c) 2017 by Edward Ren. All Rights Reserved.
+Copyright (c) 2017 by Kenb Vilgax. All Rights Reserved.
  -->
 [![Build Status](https://travis-ci.org/EdwaRen/edwardren.me.svg?branch=master)](https://travis-ci.org/EdwaRen/edwardren.me)
 [![Npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/EdwaRen/FinderMe/releases/tag/v1.3.0)
@@ -220,7 +220,7 @@ Here is a link to download Chrome:
 https://www.google.com/chrome/index.html
 
 # License
-Copyright (c) 2017 Edward Ren
+Copyright (c) 2017 Kenb Vilgax
 
 This project and its use as a template is licensed under the GNU General Public License v3.0 (GNU GPL v3.0). Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. For more specific information see [LICENSE](../blob/master/LICENSE)
 

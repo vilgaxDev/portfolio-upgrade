@@ -178,7 +178,7 @@ class MobileGroup extends Component {
           {this.renderAllGroups()}
           <div id = "mobWrapper">
             <div id = "mobBottomBar">
-              <p>Source code available <a href = "https://github.com/EdwaRen/FinderMe">here</a><br/>Copyright 2017 Edward Ren</p>
+              <p>Source code available <a href = "https://github.com/vilgaxbaha">here</a><br/>Copyright 2019 KenBrian Vilgax</p>
             </div>
 
           </div>

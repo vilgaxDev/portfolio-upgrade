@@ -30,7 +30,13 @@ var Info = [
 
     [ "NITP","", "Software Developer", "I was able to  create and develop a CRM  for NITP (Nairobi industrial pack) which host taifa laptops.<br /><br />Skills:Android Development,PHP Laravel,", "May 2017-Dec 2017", "JKUAT Main Campus", ""],
 
-    ["Okolea international.", "", "Software Developer", "Position Held: client service engineer <br /><br />Skills: Android Development, SQLlite, JAVA development,", "Oct 2014 – Dec 2014  ", "Spring valley", ""],
+    ["Okolea International", "", "Software Developer", "<br /><br />Skills:Angular, Firebase & Cloud Funtions, React Native Mobile app Development,", "Aug 2018 – march 2019  ", "Ruaka Town,R2 building", ""],
+
+    ["Evotech Innovations ", "", "Senior Software Developer", "<br /><br />Skills:Angular, Firebase & Cloud Funtions, React Native Mobile app Development,SpringBoot Framework,Php(Laravel)", " march 2018  ", "JUJA Town", ""],
+
+    ["Medbook Africa  ", "", "Senior Software Developer", "<br /><br />Skills:Angular, Firebase & Cloud Funtions, React Native Mobile app Development,SpringBoot Framework,Php(Laravel)", " march 2018  ", "JUJA Town", ""],
+
+
 
     
 
