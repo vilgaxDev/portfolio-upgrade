@@ -34,7 +34,7 @@ var Info = [
 
     ["Evotech Innovations ", "", "Senior Software Developer", "<br /><br />Skills:Angular, Firebase & Cloud Funtions, React Native Mobile app Development,SpringBoot Framework,Php(Laravel)", " march 2018  ", "JUJA Town", ""],
 
-    ["Medbook Africa  ", "", "Senior Software Developer", "<br /><br />Skills:Angular, Firebase & Cloud Funtions, React Native Mobile app Development,SpringBoot Framework,Php(Laravel)", " march 2018  ", "JUJA Town", ""],
+    ["Medbook Africa  ", "", "Senior Software Developer", "<br /><br />Skills:Angular 8, Firebase & Cloud Funtions, React Native Mobile app Development,SpringBoot Framework,Php(Laravel)", " march 2018  ", "JUJA Town", ""],
 
 
 
@@ -44,11 +44,11 @@ var Info = [
 
   //Projects
   [
-    [ "Recycle Can","", "Founder, Chief iOS and Web Developer <br /> <a href = 'https://www.recyclecan.ca'  target='_blank'> Website</a> | <a href = 'https://github.com/EdwaRen/Recycle_Can_iOS' target='_blank'>Git</a>", "iOS and web navigation tool that guides users to the closest electronic waste recycling center.<br /><br />Assembled built-in real-time navigation app using Swift with 18000+ lifetiime users on iOS by integrating application using MapKit.<br ><br \>Constructed website supporting Google Maps API using React.js accepting 1500+ peak monthly visits.", "Spring 2017 - Summer 2017", "Ottawa-Colonel By", ""],
+    [ "Loan Management System","", "Founder, Chief Android  and Web Developer <br /> <a href = 'https://github.com/vilgaxbaha' target='_blank'> Website</a> | <a href = 'https://github.com/vilgaxbaha' target='_blank'>Git</a>", "Android application and Admin dashboard that guides users to issue and give out loans and manage them.<br /><br />Assembled built-in real-time navigation app using React native for android app and Angular 7 webapplication by integrating  application using Firebase.<br ><br \>Constructed Admin Dashboard supporting Payment (MPESA) API using Angular 7, Node js and  authenticated with Firebase Auth.", "", "", ""],
 
-    [ "Team Goals","", "Founder, Overall Developer: <a href = 'https://github.com/EdwaRen/Team_Goals' target='_blank'>Git</a>", "Public goal sharing web app to effectively communicate tasks between a team in real time.<br \><br \>Assembled using React.js with backend support powered by Redux and authenticated with Firebase Auth.<br \><br \>Synchronized website with Firebase REST API to update components in real time.", "Spring 2017 - Summer 2017", "Ottawa-Colonel By", ""],
+    [ "Distribution and Accounting CMS","", " Overall Developer: <a href = ' https://officenip.com/' target='_blank'>Website</a>", "Public goal is IT favours small and large companies implemented with the best technologies in security and simple users interphase its also fully customisable to any company<br \><br \>Assembled using Php (Laravel) with backend support powered Laravel and Mysql DB and authenticated with Firebase Auth.<br \><br \>Synchronized website with Firebase REST API to update components in real time.", "", "Vilgax dev", ""],
 
-    [ "Morsecret","", "Founder, Overall Developer: <a href = 'https://github.com/EdwaRen/Morsecret' target='_blank'>Git</a>", "Morsecret is an ad-hoc distributed application that uses a novel haptic steganographic approach for real-time chat messaging.<br ><br >Privately communicates using morse code facilitated by Firebase.<br ><br >Employed Model-View-Controller (MVC) architectural pattern to process conversion of alphabetical characters into haptic feedback.", "Summer 2017", "Ottawa-Colonel By", ""],
+    [ "Point of Sale (POS)","", "Founder, Overall Developer:", "This is an inventory system and POS syetem which can be customised to any company<br ><br >Designed using PHP(Laravel) and MySQL<br ><br >Manages stocks and also manages payments of walking clients and also clients who Pay via MPESA to real time sales and payments. ", "", "Vilgax Dev", ""],
 
 
   ],
@@ -59,7 +59,7 @@ var Info = [
     ["MetroNews", "", "Work Featured by News", "Interviewed and had an article written concerning Recycle Can on MetroNews online and print publications. Article can be found <a href = 'https://weblink.ocdsb.ca/WebLink/DocView.aspx?dbid=0&id=2963740&page=1' target='_blank'>here.</a>", "Summer 2017", "Ottawa"],
     ["Ottawa TechWatch", "", "Work Featured by News", "Online article written concerning Recycle Can on Ottawa TechWatch online news network. Article can be found <a href = 'http://www.ottawatechwatch.com/story.php?title=recycle-can' target='_blank'>here.</a>", "Summer 2017", "Ottawa"],
     ["Inventure", "", "Backend Lead: <a href = 'https:/meetinventure.com' target='_blank'>Website</a>", "Constructed backend support tool with Express.js for Inventure, an Ottawa based entrepreneurial accelerator for young student innovators.", "May 2018 - August 2018", "Ottawa"],
-    ["ACT 35/36", "", "Ranked 99th percentile", "Excelled in the ACT with a composite score of 35 amongst more than six million candidates", "January 2017", "Ottawa"],
+    ["ACT 35/36", "", "Ranked 99th percentile", "Excelled in the ACT with a composite score of 35 amongst more than six million candidates", "January 2017", "Ottawa"], 
     ["Scholarship of distinction", "", "Awarded to students achieving 95%+", "University of Waterloo President’s scholarship of distinction.", "May 2017", "Ottawa"],
 
     ["International Baccalaureate", "", "Diploma", "Exceeded and surpassed expectations in International Baccalaureate program graduating within top 88th percentile.", "May 2017", "Ottawa"],
@@ -74,10 +74,10 @@ var Info = [
   //Languages
   [
 
-    [ "Languages","", "Experience Level", "", "2011 (Earliest) - Present", "N/A",   "url('images/html-coding.png')", ["Python", 85, "JavaScript",85, "C++", 80, "Swift", 70, "Visual Basic",60, "Java" , 55 , "CSS", 55 , "HTML", 55, "Proficiency"]],
-    [ "Tools","", "Experience Level", "", "2011 (Earliest) - Present", "N/A",   "url('images/html-coding.png')", ["Node.js", 90, "Django", 85, "React.js",85, "Docker", 70, "Git", 70, "Keras", 60, "MongoDB",60, "Proficiency"]],
+    [ "Codding Languages","", "Experience Level", "", "2012 (Earliest) - Present", "N/A",   "url('images/html-coding.png')", ["Angular", 85, "JavaScript",85, "PHP", 80, "Android", 70, "C#",60, "Java" , 60 , "CSS", 65 , "HTML", 62, "Proficiency"]],
+    [ "Tools","", "Experience Level", "", "2012 (Earliest) - Present", "N/A",   "url('images/html-coding.png')", ["Node.js", 90, "SQL", 85, "React.js",85, "Docker", 70, "Git", 70, "Firebase", 60, "MongoDB",60, "Proficiency"]],
 
-    [ "Linguistics","","Language Skills", "Fluent: English, French.<br > <br > Experienced: Mandarin.", "N/A", "N/A", ""],
+    [ "Linguistics","","Language Skills", "Fluent: English, Swahili<br > <br > ", "N/A", "N/A", ""],
 
   ],
 
@@ -94,23 +94,23 @@ var Info = [
   //Education
   [
 
-    [ "University of Waterloo","", "Candidate for Bachelor in Software Engineering", "", "2017 - 2022 (Expected)", "Waterloo", ""],
+    [ "JKUAT Main","", "Studied Bachelor in Business in formation And Technology", "", "2014 - 2017 (Finished)", "Juaja Kenya", ""],
 
-    [ "Colonel By","","Secondary School", "Received international baccalaureate diploma alongside Ontario Secondary School French Immersion Diploma.", "2012 - 2017", "Ottawa", ""]
+    [ "JKUAT Main","","Diploma", "Studied Diploma in Business infomation And Technology", "2012 - 2014", "Juja Kenya", ""]
 
   ],
 
   //Other
   [
-    [ "CLS","","Aerospace Research Assistant", "Cooperated with researchers to analyze elemental composition of a Boeing 737 turbine engine using beamlines from the Canadian Light Source (CLS) national synchrotron.<br ><br >Presented findings to over 200 students and professors at the University of Saskatchewan.", "Summer 2016", "Saskatoon",  ""],
+      [ "","","Aerospace Research Assistant", "Cooperated with researchers to analyze elemental composition of a Boeing 737 turbine engine using beamlines from the Canadian Light Source (CLS) national synchrotron.<br ><br >Presented findings to over 200 students and professors at the University of Saskatchewan.", "Summer 2016", "Saskatoon",  ""],
 
-    [ "SHAD","","SHAD (Formerly Shad Valley) Alumnus", "1 of 7 students from high school selected to participate in SHAD, a competitive national entrepreneurial enrichment program.", "Summer 2016", "University of Saskatchewan", ""],
+      [ "","","SHAD (Formerly Shad Valley) Alumnus", "1 of 7 students from high school selected to participate in SHAD, a competitive national entrepreneurial enrichment program.", "Summer 2016", "University of Saskatchewan", ""],
 
-    [ "Debate","","Debating Society - Executive Committee", "Semi-finalist in Ontario Provincial Debating Championships (2016).<br ><br >Practiced for 5 hours a week after school and competed at various provincial and national tournaments.", "2012 - 2017", "Nationwide", ""],
+      [ "","","Debating Society - Executive Committee", "Semi-finalist in Ontario Provincial Debating Championships (2016).<br ><br >Practiced for 5 hours a week after school and competed at various provincial and national tournaments.", "2012 - 2017", "Nationwide", ""],
 
-    [ "Cross Country Team","","Long Distance Runner", "Participated as a runner on the Colonel By Cross Country team and competed at the Louis Riel meets each year.", "2014 - 2017", "Ottawa-Colonel By", ""],
+      [ "","","Long Distance Runner", "Participated as a runner on the Colonel By Cross Country team and competed at the Louis Riel meets each year.", "2014 - 2017", "Ottawa-Colonel By", ""],
 
-    [ "Interests","", "Hobbies and Amusement", "Cross country, Blitz chess, Speedcubing, Skiing, Swimming, Hiking, Quizbowl trivia <br /><br />Follow me on Instagram @ed.yren!", "N/A", "N/A", ""],
+      [ " ","", "Hobbies and Amusement", "Cross country, Blitz chess, Speedcubing, Skiing, Swimming, Hiking, Quizbowl trivia <br /><br />Follow me on Instagram @ed.yren!", "N/A", "N/A", ""],
 
 
   ],

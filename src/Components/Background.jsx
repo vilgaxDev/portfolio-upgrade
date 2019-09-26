@@ -3,8 +3,8 @@ import '../css/HtmlStyle.css';
 import FinderDisplay from './FinderDisplay';
 import Alternate from './Alternate';
 // import $ from 'jquery';
-import Draggable from 'react-draggable'; // The default
-import FooterDisplay from './FooterDisplay';
+//import Draggable from 'react-draggable'; // The default
+import FooterDisplay from './FooterDisplay'; 
 import MobileDisplay from './MobileDisplay'
 import KeyHandler, {KEYPRESS} from 'react-key-handler';
 

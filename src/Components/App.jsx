@@ -1,7 +1,7 @@
 import React from 'react';
 import Background from './Background.jsx';
 // import { Switch, Route } from 'react-router-dom';
-import Alternate from './Alternate.jsx';
+//import Alternate from './Alternate.jsx';
 
 // App.jsx is not 'actually necessary' but it follows accepted react architecture by always having an App.jsx main renderer
 const App = () => (
