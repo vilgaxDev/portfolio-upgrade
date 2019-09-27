@@ -6,11 +6,11 @@ import Draggable from 'react-draggable'; // The default
 
 class FooterDisplay extends Component {
   render() {
-    return(
+    return(  
       // <Draggable>
           <div id="footer">
             <div id="bottomText">
-              <p>Star this project on <a target="_blank" href="https://github.com/vilgaxbaha">GitHub</a>!   <br />Kenbrian Vilgax 2019 ☕</p>
+              <p>Contact me  and we can work together!   <br />Kenbrian Vilgax 2019 ☕</p>
             </div>
           </div>
         // {/* </Draggable> */}

@@ -49,14 +49,13 @@ import HTMLCoding from '../images/html-coding.png';
 import Chat from '../images/chat.png';
 import College from '../images/college.png';
 import School from '../images/open-book.png';
-import Newspaper from '../images/newspaper.png';
 import Award from '../images/award.png';
 
 
 import ProfilePic from '../images/me_irl.PNG';
-import MetroLogo from '../images/MetroNewsLogo.png';
+//import MetroLogo from '../images/MetroNewsLogo.png';
 import CANewsLogo from '../images/CANewsOttawaLogo.png';
-import OttawaTechLogo from '../images/OttawaTechWatchLogo.png';
+//import OttawaTechLogo from '../images/OttawaTechWatchLogo.png';
 
 var ChartAnimate = require("./ChartAnimate.jsx");
 
@@ -70,22 +69,21 @@ var fileIconImages = [
   [Document, Document], //Profile
   [Coding, Coding, Coding, Coding],  //Experience
   [ProjectsIcon, ProjectsIcon, ProjectsIcon, ProjectsIcon],   //Projects
-  [Newspaper, Newspaper,HTMLCoding, Award,  Award,Award, Award, Award, Award, Award], //Highlights
+ // [Newspaper, Newspaper,HTMLCoding, Award,  Award,Award, Award, Award, Award, Award], //Highlights
   [HTMLCoding,HTMLCoding, Chat], //Languages
   [LinkedIn, GitHub, Facebook, Email], //Network
   [College, School], //Education
-  [Document, Document, Document, Document, Document], //Other
+ // [Document, Document, Document, Document, Document], //Other
 ]
 //Images to be displayed in right-most "descBar" (Only 1 image is displayed at once)
 var infoDescImages = [
   [ProfilePic, ""], //Profile
   ["", "", ""], //Experience
-  ["", "", "", ""], //Projects
-  [MetroLogo,OttawaTechLogo,"", "",  "", "", "", "", "", ""],
+  ["", "", "", ""], //Projects  
   ["", "", ""], //Languages
   [LinkedIn, GitHub, Facebook, Email], //Network
   ["", ""], //Education
-  ["", "", "", "", ""], //Other
+  //Other
 ]
 //Custom images ends
 

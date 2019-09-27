@@ -9,7 +9,7 @@ var myUrl4 = str4.link("mailto:ken.vilgax@gmail.com") + "<br >Ken.vilgax@gmail.c
 
 
 var groupsInfo =[ "KenBrian ",
-"Profile", "Experience", "Projects", "Highlights", "Languages","Network", "Education", "Other"
+"Profile", "Experience", "Projects", "Languages","Network", "Education"
 ]
 
 var Info = [
@@ -48,28 +48,35 @@ var Info = [
 
     [ "Distribution and Accounting CMS","", " Overall Developer: <a href = ' https://officenip.com/' target='_blank'>Website</a>", "Public goal is IT favours small and large companies implemented with the best technologies in security and simple users interphase its also fully customisable to any company<br \><br \>Assembled using Php (Laravel) with backend support powered Laravel and Mysql DB and authenticated with Firebase Auth.<br \><br \>Synchronized website with Firebase REST API to update components in real time.", "", "Vilgax dev", ""],
 
-    [ "Point of Sale (POS)","", "Founder, Overall Developer:", "This is an inventory system and POS syetem which can be customised to any company<br ><br >Designed using PHP(Laravel) and MySQL<br ><br >Manages stocks and also manages payments of walking clients and also clients who Pay via MPESA to real time sales and payments. ", "", "Vilgax Dev", ""],
+    [ "Point of Sale (POS)","", "Founder, Overall Developer:", "This is an inventory system and POS system which can be customised to any Business <br ><br >Designed using PHP(Laravel) and MySQL<br ><br >Manages stocks and also manages payments of walking clients and also clients who Pay via MPESA to real time sales and payments. ", "", "Vilgax Dev", ""],
+    
+    [ "Point of Sale (POS)","", "Founder, Overall Developer:", "This is an inventory system and POS system which can be customised for a phamarcy <br ><br >Designed using PHP(Laravel) and MySQL<br ><br >Manages stocks and also manages payments of walking clients and also clients who Pay via MPESA to real time sales and also records patient records. ", "", "Vilgax Dev", ""],
+    
+    [ "Business Card Maker ","", "Founder, Overrall developer <br /> <a href = ' https://busines-card-maker.firebaseapp.com' target='_blank'> Website</a> | ", "React JS  application and different templates that guides users to creats business cards aslso share theme<br /><br />Assembled built-in real-time navigation app using Reactjs  and intergrated with Firebase hosting and authentication<br ><br \>Constructed user Dashboard consisting of React js, Node js and intergrated with Firebase Auth.", "", "", ""],
+
+    [ "E-comerce system  ","", " developer <br /> <a href = ' https://busines-card-maker.firebaseapp.com' target='_blank'> Website</a> | ", "React Native application and  angular8 admin dashboard and user website<br /><br />Assembled  and built  using React native for mbile application  and Node js/Angular 8 for backend both for admin and user dashboard and website intergrated with Firebase hosting and authentication<br ><br \>Constructed user Dashboard consisting of Anguylar, Node js and intergrated with Firebase Auth and slso Several Payments modes likeMPESA and also VISA and Card.", "", "", ""],
+
 
 
   ],
 
   //Highlights
-  [
+  // [
 
-    ["MetroNews", "", "Work Featured by News", "Interviewed and had an article written concerning Recycle Can on MetroNews online and print publications. Article can be found <a href = 'https://weblink.ocdsb.ca/WebLink/DocView.aspx?dbid=0&id=2963740&page=1' target='_blank'>here.</a>", "Summer 2017", "Ottawa"],
-    ["Ottawa TechWatch", "", "Work Featured by News", "Online article written concerning Recycle Can on Ottawa TechWatch online news network. Article can be found <a href = 'http://www.ottawatechwatch.com/story.php?title=recycle-can' target='_blank'>here.</a>", "Summer 2017", "Ottawa"],
-    ["Inventure", "", "Backend Lead: <a href = 'https:/meetinventure.com' target='_blank'>Website</a>", "Constructed backend support tool with Express.js for Inventure, an Ottawa based entrepreneurial accelerator for young student innovators.", "May 2018 - August 2018", "Ottawa"],
-    ["ACT 35/36", "", "Ranked 99th percentile", "Excelled in the ACT with a composite score of 35 amongst more than six million candidates", "January 2017", "Ottawa"], 
-    ["Scholarship of distinction", "", "Awarded to students achieving 95%+", "University of Waterloo President’s scholarship of distinction.", "May 2017", "Ottawa"],
+  //   ["MetroNews", "", "Work Featured by News", "Interviewed and had an article written concerning Recycle Can on MetroNews online and print publications. Article can be found <a href = 'https://weblink.ocdsb.ca/WebLink/DocView.aspx?dbid=0&id=2963740&page=1' target='_blank'>here.</a>", "Summer 2017", "Ottawa"],
+  //   ["Ottawa TechWatch", "", "Work Featured by News", "Online article written concerning Recycle Can on Ottawa TechWatch online news network. Article can be found <a href = 'http://www.ottawatechwatch.com/story.php?title=recycle-can' target='_blank'>here.</a>", "Summer 2017", "Ottawa"],
+  //   ["Inventure", "", "Backend Lead: <a href = 'https:/meetinventure.com' target='_blank'>Website</a>", "Constructed backend support tool with Express.js for Inventure, an Ottawa based entrepreneurial accelerator for young student innovators.", "May 2018 - August 2018", "Ottawa"],
+  //   ["ACT 35/36", "", "Ranked 99th percentile", "Excelled in the ACT with a composite score of 35 amongst more than six million candidates", "January 2017", "Ottawa"], 
+  //   ["Scholarship of distinction", "", "Awarded to students achieving 95%+", "University of Waterloo President’s scholarship of distinction.", "May 2017", "Ottawa"],
 
-    ["International Baccalaureate", "", "Diploma", "Exceeded and surpassed expectations in International Baccalaureate program graduating within top 88th percentile.", "May 2017", "Ottawa"],
+  //   ["International Baccalaureate", "", "Diploma", "Exceeded and surpassed expectations in International Baccalaureate program graduating within top 88th percentile.", "May 2017", "Ottawa"],
 
-    ["Debate Semi-finalist", "", "Provincial Tournament", "Semi-finalist in annual Ontario Student Debating Society (OSDU) provincial tournament. Fluent bilingual debater.", "May 2016", "Toronto"],
-    ["ICS Subject Award", "", "Highest Mark In Course", "Attained subject award in Introduction to Computer Science course with over 80 students enrolled.", "2015", "Colonel By"],
-    ["President's Scholarship of Distinction", "", "University of Waterloo Entrance Award", "Awarded to students who have attained a 95+ entrance average.", "2017", "Waterloo"],
-    ["Waterloo Mathematic Contests", "", "National Contests Organized by the CEMC", "Euclid, Cayley, and Fermat Math Contest: Top 25% Nationwide.", "2015-2017", "Waterloo"],
+  //   ["Debate Semi-finalist", "", "Provincial Tournament", "Semi-finalist in annual Ontario Student Debating Society (OSDU) provincial tournament. Fluent bilingual debater.", "May 2016", "Toronto"],
+  //   ["ICS Subject Award", "", "Highest Mark In Course", "Attained subject award in Introduction to Computer Science course with over 80 students enrolled.", "2015", "Colonel By"],
+  //   ["President's Scholarship of Distinction", "", "University of Waterloo Entrance Award", "Awarded to students who have attained a 95+ entrance average.", "2017", "Waterloo"],
+  //   ["Waterloo Mathematic Contests", "", "National Contests Organized by the CEMC", "Euclid, Cayley, and Fermat Math Contest: Top 25% Nationwide.", "2015-2017", "Waterloo"],
 
-  ],
+  // ],
 
   //Languages
   [
@@ -94,26 +101,13 @@ var Info = [
   //Education
   [
 
-    [ "JKUAT Main","", "Studied Bachelor in Business in formation And Technology", "", "2014 - 2017 (Finished)", "Juaja Kenya", ""],
+    [ "JKUAT Main","", "Studied Bachelor in Business in formation And Technology", "", "2014 - 2017 (Finished)", "Juja Kenya", ""],
 
     [ "JKUAT Main","","Diploma", "Studied Diploma in Business infomation And Technology", "2012 - 2014", "Juja Kenya", ""]
 
   ],
 
-  //Other
-  [
-      [ "","","Aerospace Research Assistant", "Cooperated with researchers to analyze elemental composition of a Boeing 737 turbine engine using beamlines from the Canadian Light Source (CLS) national synchrotron.<br ><br >Presented findings to over 200 students and professors at the University of Saskatchewan.", "Summer 2016", "Saskatoon",  ""],
-
-      [ "","","SHAD (Formerly Shad Valley) Alumnus", "1 of 7 students from high school selected to participate in SHAD, a competitive national entrepreneurial enrichment program.", "Summer 2016", "University of Saskatchewan", ""],
-
-      [ "","","Debating Society - Executive Committee", "Semi-finalist in Ontario Provincial Debating Championships (2016).<br ><br >Practiced for 5 hours a week after school and competed at various provincial and national tournaments.", "2012 - 2017", "Nationwide", ""],
-
-      [ "","","Long Distance Runner", "Participated as a runner on the Colonel By Cross Country team and competed at the Louis Riel meets each year.", "2014 - 2017", "Ottawa-Colonel By", ""],
-
-      [ " ","", "Hobbies and Amusement", "Cross country, Blitz chess, Speedcubing, Skiing, Swimming, Hiking, Quizbowl trivia <br /><br />Follow me on Instagram @ed.yren!", "N/A", "N/A", ""],
-
-
-  ],
+ 
 
 
 

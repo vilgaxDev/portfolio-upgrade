@@ -114,6 +114,7 @@ module.exports = function ChartAnimateConfirm(props){
       document.getElementsByClassName("groupStyle")[i].style.webkitAnimationName = "groupStyleTransformRev";
       document.getElementsByClassName("groupStyle")[i].style.webkitAnimationDuration = "0.15s";
       document.getElementsByClassName("groupStyle2")[i].style.webkitAnimationName = "groupStyleTransformRev";
+      
       document.getElementsByClassName("groupStyle2")[i].style.webkitAnimationDuration = "0.15s";
     }
 
