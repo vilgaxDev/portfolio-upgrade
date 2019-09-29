@@ -1,7 +1,7 @@
 <!--
-Copyright (c) 2017 by Kenb Vilgax. All Rights Reserved.
+Copyright (c) 2018 by Kenb Vilgax. All Rights Reserved.
  -->
-[![Build Status](https://travis-ci.org/EdwaRen/edwardren.me.svg?branch=master)](https://travis-ci.org/EdwaRen/edwardren.me)
+
 [![Npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/EdwaRen/FinderMe/releases/tag/v1.3.0)
 [![Aphrodite]( https://img.shields.io/badge/aphrodite-v1.2.3-blue.svg
 )](https://github.com/Khan/aphrodite)
@@ -107,7 +107,7 @@ In the later stages of this project, it became apparent that GitHub Pages only s
 #### Clone
 Simply go on terminal and clone this repository by typing in:
 ```
-$ git clone https://github.com/EdwaRen/FinderMe
+
 ```
 
 #### Installation
@@ -242,4 +242,5 @@ Special thanks to my Keurig coffee machine for making this project possible.
 
 # Contact
 
-If you have any questions or inquiries concerning FinderMe or suggestions for future releases, send an email to Edward.ren.2013@gmail.com
+If you have any questions or inquiries concerning FinderMe or suggestions for future releases, send an email to
+Ken.vilgax@gmail.com
