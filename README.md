@@ -1,7 +1,7 @@
 <!--
 Copyright (c) 2017 by Kenb Vilgax. All Rights Reserved.
  -->
-[![Build Status](https://travis-ci.org/EdwaRen/edwardren.me.svg?branch=master)](https://travis-ci.org/EdwaRen/edwardren.me)
+[![Build Status](https://travis-ci.org/EdwaRen/kenbrin Vilgax.svg?branch=master)](https://travis-ci.org/EdwaRen/kenbrin Vilgax)
 [![Npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/EdwaRen/FinderMe/releases/tag/v1.3.0)
 [![Aphrodite]( https://img.shields.io/badge/aphrodite-v1.2.3-blue.svg
 )](https://github.com/Khan/aphrodite)
@@ -188,7 +188,7 @@ As a reminder, charts are only accessible when the "Info[i][j]" value is an arra
 
 ### SSL Certification
 
-FinderMe is currently viewable at edwardren.me which has an HTTPS certificate. If hosted on GitHub pages with a custom domain, any site can be HTTPS-certified by following the tutorial below,
+FinderMe is currently viewable at kenbrin Vilgax which has an HTTPS certificate. If hosted on GitHub pages with a custom domain, any site can be HTTPS-certified by following the tutorial below,
 https://hackernoon.com/set-up-ssl-on-github-pages-with-custom-domains-for-free-a576bdf51bc
 
 # Other Versions
