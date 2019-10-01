@@ -45,7 +45,9 @@ This website was purposefully built to emulate the look of the 'Finder' program 
 
 ## Draggable
 
-Using React Draggable, a draggable main display was implemented so that the finder tab can be dragged around just like the real program itself. The principle display can be dragged anywhere. Clicking and holding anywhere on the main finder tab will drag it along. Though quite fun to play with on desktop computers, this drag functionality is not yet supported on mobile.
+Using React Draggable, a draggable main display was implemented so that the finder tab can be dragged around just like the real program itself. The principle display can be dragged anywhere. Clicking and holding anywhere on the main finder tab will drag it along. Though quite fun to play with on desktop computers, this drag functionality is not yet supported on 
+
+.
 
 <p align="center">
   <img src="./images/draggable.gif">
@@ -89,13 +91,6 @@ The green circle, or expand button, can be clicked to expand the finder display.
   <img src="./images/Expanding.gif">
 </p>
 
-## Mobile
-
-A mobile version is also available although it lacks the draggable feature of the desktop version. The mobile version is activated by detecting the screen size of the user's screen on the initial page load. Hence resizing the screen will not activate the mobile page unless the page itself is also refreshed.
-
-<p align="center">
-  <img src="./images/mobileScreenshot.jpg">
-</p>
 
 
 # Testing
