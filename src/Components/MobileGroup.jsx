@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
 import '../css/HtmlStyle.css';
-import '../css/mobileStyle.css';
+import '../css/mobileStyle.css'; 
 
 import LinkedIn from '../images/Network/linkedin2-min.png';
 import GitHub from '../images/Network/github2-min.png';
 import Facebook from '../images/Network/facebook2-min.png';
 import Email from '../images/Network/email2-min.png';
-import ProfilePic from '../images/Edward_ProfilePic.png';  
+import ProfilePic from '../images/kenb.png';  
 
 import { StyleSheet, css } from 'aphrodite/no-important';
 

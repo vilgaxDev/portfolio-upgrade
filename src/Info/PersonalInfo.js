@@ -54,7 +54,9 @@ var Info = [
     
     [ "Business Card Maker ","", "Founder, Overrall developer <br /> <a href = ' https://busines-card-maker.firebaseapp.com' target='_blank'> Website</a> | ", "React JS  application and different templates that guides users to creats business cards aslso share theme<br /><br />Assembled built-in real-time navigation app using Reactjs  and intergrated with Firebase hosting and authentication<br ><br \>Constructed user Dashboard consisting of React js, Node js and intergrated with Firebase Auth.", "", "", ""],
 
-    [ "E-comerce system  ","", " developer <br /> <a href = ' https://busines-card-maker.firebaseapp.com' target='_blank'> Website</a> | ", "React Native application and  angular8 admin dashboard and user website<br /><br />Assembled  and built  using React native for mbile application  and Node js/Angular 8 for backend both for admin and user dashboard and website intergrated with Firebase hosting and authentication<br ><br \>Constructed user Dashboard consisting of Anguylar, Node js and intergrated with Firebase Auth and slso Several Payments modes likeMPESA and also VISA and Card.", "", "", ""],
+    [ "E-comerce system  ","", " developer <br /> <a href = ' https://busines-card-maker.firebaseapp.com' target='_blank'> Website</a> | ", "React Native application and  angular8 admin dashboard and user website<br /><br />Assembled  and built  using React native for mbile application  and Node js/Angular 8 for backend both for admin and user dashboard and website intergrated with Firebase hosting and authentication<br ><br \>Constructed user Dashboard consisting of Angular, Node js and intergrated with Firebase Auth and slso Several Payments modes likeMPESA and also VISA and Card.", "", "", ""],
+    
+    //[ "","", "Founder, Overall Developer:", "This is an inventory system and POS system which can be customised for a phamarcy <br ><br >Designed using PHP(Laravel) and MySQL<br ><br >Manages stocks and also manages payments of walking clients and also clients who Pay via MPESA to real time sales and also records patient records. ", "", "Vilgax Dev", ""],
 
 
 
@@ -82,18 +84,19 @@ var Info = [
   [
 
     [ "Codding Languages","", "Experience Level", "", "2012 (Earliest) - Present", "N/A",   "url('images/html-coding.png')", ["Angular", 85, "JavaScript",85, "PHP", 80, "Android", 70, "C#",60, "Java" , 60 , "CSS", 65 , "HTML", 62, "Proficiency"]],
-    [ "Tools","", "Experience Level", "", "2012 (Earliest) - Present", "N/A",   "url('images/html-coding.png')", ["Node.js", 90, "SQL", 85, "React.js",85, "Docker", 70, "Git", 70, "Firebase", 60, "MongoDB",60, "Proficiency"]],
+    [ "Tools of codding","", "Experience Level", "", "2012 (Earliest) - Present", "N/A",   "url('images/html-coding.png')", ["Node.js", 90, "SQL", 85, "Android",85, "Docker", 70, "Git", 70, "Firebase", 60, "MongoDB",60, "Proficiency"]],
 
-    [ "Linguistics","","Language Skills", "Fluent: English, Swahili<br > <br > ", "N/A", "N/A", ""],
+    [ "Languages Spoken","","Language Skills", "Fluent: English, Swahili<br > <br > ", "N/A", "N/A", ""],
 
   ],
 
   //Network
-  [
+  [ 
 
     [ "LinkedIn","url('images/Network/linkedin.png')", myUrl,"", "N/A", "N/A",  "" ],
     [ "GitHub","url('images/Network/github2.png')", myUrl2, "", "N/A", "N/A", "" ],
-    [ "Mail","url('images/Network/email2.png')", myUrl4, "", "N/A", "N/A", ""  ]
+    [ "GMail","url('images/Network/email2.png')", myUrl4, "", "N/A", "N/A", ""  ]
+    //[ "Mail","url('images/Network/email2.png')", myUrl4, "", "N/A", "N/A", ""  ]
 
   ],
 

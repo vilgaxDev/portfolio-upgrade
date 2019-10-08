@@ -47,12 +47,12 @@ import Facebook from '../images/Network/facebook2-min.png';
 import Email from '../images/Network/email2-min.png';
 import HTMLCoding from '../images/html-coding.png';
 import Chat from '../images/chat.png';
-import College from '../images/college.png';
-import School from '../images/open-book.png';
+import College from '../images/logo-jkuat.png';
+import School from '../images/logo-jkuat.png'; 
 import Award from '../images/award.png';
 
 
-import ProfilePic from '../images/me_irl.PNG';
+import ProfilePic from '../images/kenb.png';
 //import MetroLogo from '../images/MetroNewsLogo.png';
 import CANewsLogo from '../images/CANewsOttawaLogo.png';
 //import OttawaTechLogo from '../images/OttawaTechWatchLogo.png';
@@ -67,8 +67,8 @@ var groupIconImages = [
 //Image icons to be displayed in middle "filesBar" (Only 1 array of images are displayed at once)
 var fileIconImages = [
   [Document, Document], //Profile
-  [Coding, Coding, Coding, Coding],  //Experience
-  [ProjectsIcon, ProjectsIcon, ProjectsIcon, ProjectsIcon],   //Projects
+  [Coding, Coding, Coding, Coding,Coding,Coding,Coding,Coding],  //Experience
+  [ProjectsIcon, ProjectsIcon, ProjectsIcon, ProjectsIcon ,ProjectsIcon,ProjectsIcon,ProjectsIcon],   //Projects
  // [Newspaper, Newspaper,HTMLCoding, Award,  Award,Award, Award, Award, Award, Award], //Highlights
   [HTMLCoding,HTMLCoding, Chat], //Languages
   [LinkedIn, GitHub, Facebook, Email], //Network
