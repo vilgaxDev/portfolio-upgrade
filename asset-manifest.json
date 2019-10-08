@@ -1,15 +1,16 @@
 {
   "main.css": "static/css/main.7d6698c6.css",
   "main.css.map": "static/css/main.7d6698c6.css.map",
-  "main.js": "static/js/main.61beee34.js",
-  "main.js.map": "static/js/main.61beee34.js.map",
+  "main.js": "static/js/main.04654a23.js",
+  "main.js.map": "static/js/main.04654a23.js.map",
   "static\\media\\CANewsOttawaLogo.png": "static/media/CANewsOttawaLogo.952ef50a.png",
-  "static\\media\\Edward_ProfilePic.png": "static/media/Edward_ProfilePic.cd9cda58.png",
   "static\\media\\Raleway-Bold.ttf": "static/media/Raleway-Bold.575e4317.ttf",
   "static\\media\\Raleway-Italic.ttf": "static/media/Raleway-Italic.dd03a26a.ttf",
   "static\\media\\Raleway-Medium.ttf": "static/media/Raleway-Medium.430a0518.ttf",
   "static\\media\\Raleway-Regular.ttf": "static/media/Raleway-Regular.580d0778.ttf",
-  "static\\media\\me_irl.PNG": "static/media/me_irl.4cc08911.PNG",
+  "static\\media\\facebook2-min.png": "static/media/facebook2-min.774940a1.png",
+  "static\\media\\kenb.png": "static/media/kenb.026f0be6.png",
+  "static\\media\\logo-jkuat.png": "static/media/logo-jkuat.86f7778a.png",
   "static\\media\\styleGraph.scss": "static/media/styleGraph.6f57eb66.scss",
   "static\\media\\triangulated-image.svg": "static/media/triangulated-image.127caff0.svg"
 }
